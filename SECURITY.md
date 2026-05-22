@@ -4,7 +4,7 @@
 
 If you believe you have discovered a security vulnerability in any Daena Protocol repository — in the specification, the reference SDK, the CLI, the renderer, or the verifier — please report it privately so we can address it before public disclosure.
 
-**Email:** security@daena.org
+**Email:** security@daena-protocol.org
 
 Please include:
 
