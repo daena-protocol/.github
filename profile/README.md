@@ -15,15 +15,15 @@ In Avestan, *daena* means *one's truthful self, made visible*. That is what ever
 | [`spec`](https://github.com/daena-protocol/spec) | The Daena Protocol specification |
 | [`daena`](https://github.com/daena-protocol/daena) | Reference SDK, CLI, and renderer |
 | [`examples`](https://github.com/daena-protocol/examples) | Sample Daena documents |
-| [`web`](https://github.com/daena-protocol/web) | daena.org — site and documentation |
+| [`web`](https://github.com/daena-protocol/web) | daena-protocol.org — site and documentation |
 
 ## Get involved
 
 Daena is in early specification. The protocol's shape is still being decided — the right moment to contribute is now.
 
-- Read the [manifesto](https://daena.org/manifesto) *(coming soon)*
+- Read the [manifesto](https://daena-protocol.org) *(coming soon)*
 - Debate the spec in [GitHub Discussions](https://github.com/daena-protocol/spec/discussions)
-- Subscribe to updates at [daena.org](https://daena.org)
+- Subscribe to updates at [daena-protocol.org](https://daena-protocol.org)
 
 ---
 
